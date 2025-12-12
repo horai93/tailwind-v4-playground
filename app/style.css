@@ -1,2 +1,7 @@
 @import "tailwindcss";
 @source "../app";
+
+@theme {
+  --*: initial;
+  --color-primary: #ff0000;
+}
